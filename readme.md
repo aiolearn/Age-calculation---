@@ -80,7 +80,7 @@ hours = to_hours(day)
 seconds = to_seconds(day)
 ```
 
-And finally we display the result
+And finally we display the result:
 
 ```python
 print("age is %d years or " % (year), end="")
@@ -171,7 +171,7 @@ hours = to_hours(day)
 seconds = to_seconds(day)
 ```
 
-و در نهایت نتیجه را نمایش می دهیم
+و در نهایت نتیجه را نمایش می دهیم:
 
 ```python
 print("age is %d years or " % (year), end="")
